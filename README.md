@@ -1,6 +1,6 @@
 ![Valério Coelho](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:16a34a,100:22d3ee&height=220&section=header&text=Val%C3%A9rio%20Coelho&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Backend%20Developer%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Python&descAlignY=58&descSize=18&animation=fadeIn)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=22C55E&center=true&vCenter=true&width=620&lines=Ol%C3%A1%2C+eu+sou+o+Val%C3%A9rio+%F0%9F%91%8B;React+%2B+NestJS+%2B+FastAPI+%2B+Docker;Transformando+caf%C3%A9+em+deploy+%E2%98%95%E2%86%92%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=22C55E&center=true&vCenter=true&width=620&lines=Ol%C3%A1%2C+eu+sou+Val%C3%A9rio+%F0%9F%91%8B;React+%2B+NestJS+%2B+FastAPI+%2B+Docker;Transformando+caf%C3%A9+em+deploy+%E2%98%95%E2%86%92%F0%9F%9A%80)
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Val%C3%A9rio%20Coelho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)![Email](https://img.shields.io/badge/Gmail-valeriocoelhomc-EA4335?style=for-the-badge&logo=gmail&logoColor=white)![GitHub](https://img.shields.io/badge/GitHub-valeriocoelho1-181717?style=for-the-badge&logo=github&logoColor=white)![Visitas](https://komarev.com/ghpvc/?username=valeriocoelho1&style=for-the-badge&color=16a34a&label=VISITAS)
 
